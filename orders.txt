@@ -3,3 +3,6 @@ order_id  delivery_address  pincode  payment
 2         ibp               533510   2000
 3         mgp               523510   3000
 4         cvr               501310   500
+5         kkd               545477   12000
+6         rjy               545469   7000
+7         vjy               546495   23000
