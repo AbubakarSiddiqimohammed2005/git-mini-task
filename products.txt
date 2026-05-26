@@ -3,3 +3,6 @@ product_id  product_name  quanity  price
 2           laptop        1        70000
 3           monitor       1        100000
 4           headphones    1        5000
+5           mouse         2        850
+6           watch         5        70000
+7           bottle        3        1000
